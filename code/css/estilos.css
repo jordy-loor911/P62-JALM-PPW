@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 36px;
+    color: darkblue;
+}
+
+.boton {
+    border: 1px;
+    color: red;
+}
